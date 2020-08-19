@@ -1,0 +1,80 @@
+
+
+
+body {
+    background-color: whitesmoke;
+}
+
+.nav-link {
+    color: white;
+}
+
+.jumbotron {
+    background-color: white;
+    border: #333b;
+    border-style: solid;
+    border-width: 2px;
+    margin: 5px auto auto 10px;
+    padding-left: 20px;
+}
+
+.about-me {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 15px;
+    text-decoration: underline;
+    background-color: white;
+}
+
+.main-content {
+    margin-bottom: 35px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+
+.top-link {
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    margin-bottom: 60px;
+    padding-top: 0;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: black;
+    text-align: center;
+    background-color: lightgrey;
+    font-size: 14px;
+    }
+
+    .portfolio {
+        width: 80%;
+        height: 80%;
+        margin-top: 25px;
+
+        
+    }
+
+    .portfolio-h1 {
+        text-align: center;
+        margin-top: 30px;
+        padding-top: 15px;
+        text-decoration: underline;
+        background-color: whitesmoke;
+    }
+
+        .hr-contact {
+            background: white;
+        }
+
+        .contact-form {
+            background:rgba(0,0,0, .6);
+            color: white;
+            margin-top: 50px;
+            padding: 20px 20px 0 20px;
+            box-shadow: 0 0 10px 3px grey;
+        }
