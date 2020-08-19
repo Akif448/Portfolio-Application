@@ -79,6 +79,10 @@ body {
             box-shadow: 0 0 10px 3px grey;
         }
 
+        .linkedin {
+            color: white;
+        }
+
 @media screen and (max-width: 768px) {
     .contact-form {
         margin: 2px 0 40px 2px;
