@@ -1,5 +1,5 @@
 
-
+/* Generic styling across .html */
 
 body {
     background-color: whitesmoke;
@@ -9,6 +9,7 @@ body {
     color: white;
 }
 
+/* Styling for index.html */
 .jumbotron {
     background-color: white;
     border: #333b;
@@ -40,6 +41,7 @@ body {
     padding-top: 0;
 }
 
+/* Sticky Footer styling for all .html */
 .footer {
     position: fixed;
     width: 100%;
@@ -51,6 +53,7 @@ body {
     font-size: 14px;
     }
 
+/* Styling for portfolio.html*/
     .portfolio {
         width: 80%;
         height: 80%;
@@ -67,6 +70,7 @@ body {
         background-color: whitesmoke;
     }
 
+  /* Styling for contact.html */  
         .hr-contact {
             background: white;
         }
@@ -83,6 +87,7 @@ body {
             color: white;
         }
 
+/* Using minimal media queries for responsivness due to the use of bootstrap*/
 @media screen and (max-width: 768px) {
     .contact-form {
         margin: 2px 0 40px 2px;
