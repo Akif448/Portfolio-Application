@@ -9,5 +9,6 @@ This application was contructed using bootstrap to develop an application which 
 
 
 
-live link: https://akif448.github.io/bootcamp-portfolio-page/index.html#
+live link: https://akif448.github.io/Portfolio-Application/
+
 Github link: https://github.com/Akif448/bootcamp-portfolio-page
