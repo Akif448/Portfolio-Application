@@ -1,8 +1,13 @@
-# bootcamp-homework-week2
+# Portfolio Page 
 
-In this homework activity we used bootstrap to develop an application which was both functioning and responsive, with the use of bootstrap the use of media queries was highly reduced. 
+<img src="screenshot.png" alt="Portfolio page">
+=======
 
-The application itself was a portfolio webpage with multiple pages. links include:- about, contact, portfolio annd the name logo in the nav is a home link.
+Portfolio webpage with links; links include:- about, contact, portfolio annd the name logo in the nav is a home link. Allowing users to see screenshots of applications with links to live pages.
 
-link: https://akif448.github.io/bootcamp-portfolio-page/index.html#
+This application was contructed using bootstrap to develop an application which was both functioning and responsive, with the use of bootstrap the use of media queries was greatly reduced. It contains information about me, applications i have developed (screeenshots presented on a carousel), contact page not functioning.
 
+
+
+live link: https://akif448.github.io/bootcamp-portfolio-page/index.html#
+Github link: https://github.com/Akif448/bootcamp-portfolio-page
