@@ -71,7 +71,7 @@ body {
     }
 
     .imglink {
-        text-align: right;
+        float: right;
         color: black;
     }
 
